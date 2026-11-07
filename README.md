@@ -15,6 +15,7 @@ I'm interested in **Artificial Intelligence**, **software development**, and **d
 | [N-Queens CSP Solver](https://github.com/deema28/n-queens-csp-solver) | Backtracking, Forward Checking and MAC (AC-3) with MRV, benchmarked up to N = 64 | Python |
 | [Helpdesk Ticketing Database](https://github.com/deema28/helpdesk-ticketing-database) | 8-table relational schema with constraints, cascading rules, views and analytics queries | Oracle SQL |
 | [Multithreaded TCP Server](https://github.com/deema28/multithreaded-tcp-server) | Concurrent client–server app with thread-safe state and round-trip-time measurement | Python, Sockets, Threads |
+| [Intelligent Schedule Builder](https://github.com/deema28/intelligent-schedule-builder) | Human-centered AI prototype that suggests conflict-free schedules and explains registration chances; usability-tested with 5 students | Figma, UX research |
 | [Light Up Riyadh](https://github.com/deema28/light-up-riyadh) | 2D Unity game with difficulty modes, scoring and a city light-up win effect | Unity, C# |
 
 ## Skills
